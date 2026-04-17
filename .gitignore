@@ -9,7 +9,7 @@ node_modules/
 .env.*.local
 
 # Prisma
-.prisma/
+prisma/
 
 # Build outputs
 /build
