@@ -1,4 +1,4 @@
-// import prisma from "../database/connectSQL.mjs";
+import prisma from "../database/ConnectSQL.mjs";
 
 //Room: {RoomId, Type, IsAvailable, Description}
 

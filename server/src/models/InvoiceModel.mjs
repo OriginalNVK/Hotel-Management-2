@@ -1,4 +1,4 @@
-// import prisma from '../database/connectSQL.mjs';
+import prisma from '../database/ConnectSQL.mjs';
 import BookingModel from './BookingModel.mjs';
 
 // Invoice: {InvoiceId, InvoiceDate, Amount, representative} (representative is the InvoiceId of the Customer)

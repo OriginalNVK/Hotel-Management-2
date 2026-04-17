@@ -1,4 +1,4 @@
-// import prisma from '../database/connectSQL.mjs';
+import prisma from '../database/ConnectSQL.mjs';
 
 // RoomType: {Type, Price, Max_Customer, Min_Customer_for_Surcharge, Surcharge}
 
